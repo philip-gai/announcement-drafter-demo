@@ -1,7 +1,7 @@
 <!-- 
 author: philip-gai
 repository: https://github.com/philip-gai/repost-demo
-team: 
+team: https://github.com/orgs/elastico-group/teams/everyone
 -->
 
 # Hello World! 👋
