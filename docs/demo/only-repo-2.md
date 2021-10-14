@@ -1,12 +1,10 @@
 <!-- 
 author: philip-gai
 repository: https://github.com/philip-gai/repost-demo
-team: https://github.com/orgs/elastico-group/teams/everyone
+team:
 category: https://github.com/philip-gai/repost-demo/discussions/categories/announcements
 -->
 
-# Hello World! 👋
+# Only Repo 2
 
-This is a test discussion post. I hope it works! 🤞
-
-ANOTHA ONE
+Testing that the post works with only the repository in the YAML and no value for the team
