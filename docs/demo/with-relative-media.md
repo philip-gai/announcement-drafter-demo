@@ -7,6 +7,6 @@ category: https://github.com/philip-gai/repost-demo/discussions/categories/annou
 
 # Discussion with relative media
 
-Testing that posting a discussion with images will work
+This will not work. Just confirming that fact 🤣
 
 ![Relative Image](assets/observability-current-platform.png)
