@@ -5,7 +5,7 @@ team: https://github.com/orgs/elastico-group/teams/everyone
 category: https://github.com/philip-gai/repost-demo/discussions/categories/announcements
 -->
 
-# Discussion with media
+# Discussion with relative media
 
 Testing that posting a discussion with images will work
 
