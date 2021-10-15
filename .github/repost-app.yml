@@ -1,5 +1,4 @@
 watch_folders:
-  - docs/team-posts
-  - "docs/discussions"
+  - docs/
 ignore_folders:
-  - docs/team-posts/ignore
+  - docs/demo/ignore
