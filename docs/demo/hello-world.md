@@ -6,4 +6,4 @@ category: announcements
 
 # Hello World! 👋
 
-This is a test discussion post. I hope it works! 🤞
+Hello beautiful world! 🌎
