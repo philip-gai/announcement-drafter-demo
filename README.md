@@ -1,3 +1,5 @@
-# repost-demo
+# Announcement Drafter Demo
 
-Demo repository for [philip-gai/repost](https://github.com/philip-gai/repost)
+Demo repository for [philip-gai/announcement-drafter]
+
+[philip-gai/announcement-drafter]: https://github.com/philip-gai/announcement-drafter
