@@ -1,8 +1,8 @@
 <!-- 
 author: philip-gai
-repository: https://github.com/philip-gai/repost-demo
+repository: https://github.com/philip-gai/announcement-drafter-demo
 team:
-category: https://github.com/philip-gai/repost-demo/discussions/categories/announcements
+category: https://github.com/philip-gai/announcement-drafter-demo/discussions/categories/announcements
 -->
 
 # Only Repo 2
