@@ -1,8 +1,3 @@
-<!--
-repository: https://github.com/philip-gai/announcement-drafter-demo
-category: announcements
--->
-
-# Testing Resync
+# Break Resync
 
 A brand new, AWESOME feature.
