@@ -1,5 +1,5 @@
 <!--
-repo: https://github.com/philip-gai/github-drawio-demo
+repo: https://github.com/github/education-web
 category: announcements
 -->
 
