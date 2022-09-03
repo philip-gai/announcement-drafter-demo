@@ -1,5 +1,5 @@
 <!--
-repo: https://github.com/slashkudos/slashkudos
+repo: https://github.com/philip-gai/github-drawio-demo
 category: announcements
 -->
 
