@@ -1,6 +1,6 @@
 <!--
-repo: https://github.com/philip-gai/announcement-drafter-demo
-category: Team Posts
+repo: https://github.com/slashkudos/slashkudos
+category: announcements
 -->
 
 <!-- This is the discussion title -->
