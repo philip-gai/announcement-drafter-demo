@@ -1,5 +1,5 @@
 <!--
-repo: https://github.com/github/education-web
+repo: https://github.com/philip-gai/looper-api
 category: announcements
 -->
 
